@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week2 Sum and Average", "Week2 Sum and Average\Week2 Sum and Average.csproj", "{EC93E66C-F27D-477E-A576-21A50FE8EB6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC93E66C-F27D-477E-A576-21A50FE8EB6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC93E66C-F27D-477E-A576-21A50FE8EB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC93E66C-F27D-477E-A576-21A50FE8EB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC93E66C-F27D-477E-A576-21A50FE8EB6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B356193-F8C1-4AB3-BF83-2C141FCC61B7}
+	EndGlobalSection
+EndGlobal
